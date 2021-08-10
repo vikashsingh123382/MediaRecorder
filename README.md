@@ -2,7 +2,7 @@
 Description
 The project is about a web-based media recording in terms of record from camera,screen recording also video recording with snapshots. The features of this application are :-
 
-#Features
+# Features
 
 1.The application can click pictures and record videos with the filters applied to it.
 
@@ -20,5 +20,5 @@ The project is about a web-based media recording in terms of record from camera,
 
 8.All the data is stored in the IndexDB storage system, therefore, no loss of data.
 
-#Technologies Used:
+# Technologies Used:
 HTML, CSS, JavaScript, IndexDB, MediaSreams, Canvas APIs.
